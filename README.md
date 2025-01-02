@@ -1,1 +1,1 @@
-# rockpaperscissorusinghtmlcssandjs
+This project is a simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScript. The game allows the user to select one of three choices (Rock, Paper, or Scissors) and plays against a computer-generated choice. The game logic evaluates the choices and displays the result: either a win, loss, or draw. The user can play multiple rounds without refreshing the page.
